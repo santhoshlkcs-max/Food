@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FlavorFind AI",
+  "description": "A premium food and recipe discovery platform powered by Gemini AI. Browse curated recipes or use the AI Chef to generate ideas from ingredients or images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
